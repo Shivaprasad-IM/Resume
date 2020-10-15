@@ -1,0 +1,142 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,500&display=swap');
+body {
+    background-color: #fafafa;
+    font-style: italic;
+    font-size: 17px;
+    color: #080808c7;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 15px 0px; 
+}
+h2 {
+    font-size: 20px;
+    margin: 15px 0px;
+    margin-top: 5px;
+}
+h3 {
+    font-size: 22px;
+    margin: 15px 0px;
+    margin-top: 5px;
+}
+
+p{
+
+    margin: 10px auto; 
+}
+
+section {
+    width: 850px;
+    margin: 0px auto;
+    margin-bottom: 40px;
+}
+
+.ml-60{
+    margin-left: 100px;
+}
+
+#about {
+    margin-top: 125px;
+}
+.box{
+    background-color: #fff;
+    box-shadow:0px 0px 5px 0px #e0e0e0;
+    width: 730px;
+    
+    margin: 0px auto;
+    padding: 30px 70px;
+    border-radius: 5px;
+    padding-bottom: 15px;
+}
+
+.profile-summary{
+    position: relative;
+    top:-100px;
+}
+
+.profile-image{
+    display: inline-block;
+}
+    
+.profile-pic {
+    border-radius: 50%;
+    height: 150px;
+    width:150px;
+}
+
+.profile-heading {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 32px;
+    margin-top: 13px;
+}
+
+.icon {
+
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    margin-right: 10px;
+    color: black;
+    padding: 5px;
+   
+}
+
+.profile-description {
+    
+    margin-left: 0px;
+    bottom: 100px;
+    margin-top: -90px;
+}
+
+.left, .right {
+    display: inline-block;
+}
+
+.w-100 {
+    width: 100px;
+    
+    
+}
+.h-100 {
+    height: 100px;
+    padding-bottom: 10px;
+    
+    
+}
+
+.w-500{
+    width: 600px;
+}
+.pl-25 {
+    padding-left: 25px;
+    box-sizing: border-box;
+}
+.end-profile {
+    margin-left: 0px;
+}
+.row-container{
+    padding: 10px 10px;
+}
+.row-detail{
+    vertical-align: top;
+}
+.contact h3{
+    display: inline-block;
+}
+.center{
+    text-align: center;
+}
+.boxl{
+    background-color: rgba(174, 174, 174, 0.925);
+    box-shadow:0px 0px 10px 0px #e0e0e0;
+    padding: 30px 60px;
+    border-radius: 5px;
+    height: 30px;
+}
